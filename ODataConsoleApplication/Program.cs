@@ -44,10 +44,14 @@ namespace ODataConsoleApplication
 
             // 2. Changeset examples
 
-            // ODataChangesetsExample.CreateSalesOrderInSingleChangeset(context);
-            // ODataChangesetsExample.CreateSalesOrderWithoutChangeset(context);
+             ODataChangesetsExample.CreateSalesOrderInSingleChangeset(context);
+             ODataChangesetsExample.GetDataBase(context);
+             ODataChangesetsExample.InsertIntoDataBase(context);
+
+             //ODataChangesetsExample.CreateSalesOrderWithoutChangeset(context);
 
             Console.ReadLine();
+            
         }
 
        

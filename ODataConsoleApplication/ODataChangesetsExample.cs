@@ -37,7 +37,7 @@ namespace ODataConsoleApplication
                 Console.WriteLine(string.Format("Invoice {0} - Save Failed !", customerGroupId));
             }
         }
-        public static void getDataBase(Resources context)
+        public static void GetDataBase(Resources context)
         {
             SqlConnection connection;
             SqlCommand command;
@@ -66,7 +66,7 @@ namespace ODataConsoleApplication
             }
             dataReader.Close();
         }
-        public static void insertIntoDataBase(Resources context)
+        public static void InsertIntoDataBase(Resources context)
         {
             string connectionString, custgroupid = null;
 
