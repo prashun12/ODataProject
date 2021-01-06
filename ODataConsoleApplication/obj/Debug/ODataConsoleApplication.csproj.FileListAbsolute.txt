@@ -1,0 +1,51 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Dynamics-AX-Integration-master\Dynamics-AX-Integration-master\ServiceSamples\ODataConsoleApplication\obj\Debug\ODataConsoleApplication.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Dynamics-AX-Integration-master\Dynamics-AX-Integration-master\ServiceSamples\ODataConsoleApplication\obj\Debug\ODataConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ODataConsoleApplication\obj\Debug\ODataConsoleApplication.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ODataConsoleApplication\obj\Debug\ODataConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ODataConsoleApplication\obj\Debug\ODataConsoleApplication.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ODataConsoleApplication\bin\Debug\ODataConsoleApplication.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ODataConsoleApplication\bin\Debug\ODataConsoleApplication.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ODataConsoleApplication\bin\Debug\ODataConsoleApplication.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ODataConsoleApplication\bin\Debug\AuthenticationUtility.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ODataConsoleApplication\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ODataConsoleApplication\bin\Debug\Microsoft.OData.Client.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ODataConsoleApplication\bin\Debug\Microsoft.OData.Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ODataConsoleApplication\bin\Debug\Microsoft.OData.Edm.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ODataConsoleApplication\bin\Debug\Microsoft.Spatial.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ODataConsoleApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ODataConsoleApplication\bin\Debug\ODataUtility.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ODataConsoleApplication\bin\Debug\ODataUtility.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ODataConsoleApplication\bin\Debug\AuthenticationUtility.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ODataConsoleApplication\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ODataConsoleApplication\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ODataConsoleApplication\bin\Debug\Microsoft.OData.Client.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ODataConsoleApplication\bin\Debug\Microsoft.OData.Core.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ODataConsoleApplication\bin\Debug\Microsoft.OData.Edm.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ODataConsoleApplication\bin\Debug\Microsoft.Spatial.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ODataConsoleApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ODataConsoleApplication\obj\Debug\ODataConsoleApplication.csproj.CopyComplete
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ODataConsoleApplication\obj\Debug\ODataConsoleApplication.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ODataConsoleApplication\obj\Debug\ODataConsoleApplication.pdb
+C:\Users\91945\Desktop\WebServices\ODataConsoleApplication\bin\Debug\ODataConsoleApplication.exe.config
+C:\Users\91945\Desktop\WebServices\ODataConsoleApplication\obj\Debug\ODataConsoleApplication.exe
+C:\Users\91945\Desktop\WebServices\ODataConsoleApplication\obj\Debug\ODataConsoleApplication.pdb
+C:\Users\91945\Desktop\WebServices\ODataConsoleApplication\bin\Debug\ODataConsoleApplication.exe
+C:\Users\91945\Desktop\WebServices\ODataConsoleApplication\bin\Debug\ODataConsoleApplication.pdb
+C:\Users\91945\Desktop\WebServices\ODataConsoleApplication\bin\Debug\AuthenticationUtility.dll
+C:\Users\91945\Desktop\WebServices\ODataConsoleApplication\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\91945\Desktop\WebServices\ODataConsoleApplication\bin\Debug\Microsoft.OData.Client.dll
+C:\Users\91945\Desktop\WebServices\ODataConsoleApplication\bin\Debug\Microsoft.OData.Core.dll
+C:\Users\91945\Desktop\WebServices\ODataConsoleApplication\bin\Debug\Microsoft.OData.Edm.dll
+C:\Users\91945\Desktop\WebServices\ODataConsoleApplication\bin\Debug\Microsoft.Spatial.dll
+C:\Users\91945\Desktop\WebServices\ODataConsoleApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\91945\Desktop\WebServices\ODataConsoleApplication\bin\Debug\ODataUtility.dll
+C:\Users\91945\Desktop\WebServices\ODataConsoleApplication\bin\Debug\ODataUtility.pdb
+C:\Users\91945\Desktop\WebServices\ODataConsoleApplication\bin\Debug\AuthenticationUtility.pdb
+C:\Users\91945\Desktop\WebServices\ODataConsoleApplication\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.pdb
+C:\Users\91945\Desktop\WebServices\ODataConsoleApplication\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\91945\Desktop\WebServices\ODataConsoleApplication\bin\Debug\Microsoft.OData.Client.xml
+C:\Users\91945\Desktop\WebServices\ODataConsoleApplication\bin\Debug\Microsoft.OData.Core.xml
+C:\Users\91945\Desktop\WebServices\ODataConsoleApplication\bin\Debug\Microsoft.OData.Edm.xml
+C:\Users\91945\Desktop\WebServices\ODataConsoleApplication\bin\Debug\Microsoft.Spatial.xml
+C:\Users\91945\Desktop\WebServices\ODataConsoleApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\91945\Desktop\WebServices\ODataConsoleApplication\obj\Debug\ODataConsoleApplication.csprojResolveAssemblyReference.cache

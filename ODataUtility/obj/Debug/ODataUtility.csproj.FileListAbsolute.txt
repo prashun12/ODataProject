@@ -1,0 +1,32 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Dynamics-AX-Integration-master\Dynamics-AX-Integration-master\ServiceSamples\ODataUtility\bin\Debug\ODataUtility.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Dynamics-AX-Integration-master\Dynamics-AX-Integration-master\ServiceSamples\ODataUtility\bin\Debug\ODataUtility.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Dynamics-AX-Integration-master\Dynamics-AX-Integration-master\ServiceSamples\ODataUtility\bin\Debug\Microsoft.OData.Client.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Dynamics-AX-Integration-master\Dynamics-AX-Integration-master\ServiceSamples\ODataUtility\bin\Debug\Microsoft.OData.Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Dynamics-AX-Integration-master\Dynamics-AX-Integration-master\ServiceSamples\ODataUtility\bin\Debug\Microsoft.OData.Edm.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Dynamics-AX-Integration-master\Dynamics-AX-Integration-master\ServiceSamples\ODataUtility\bin\Debug\Microsoft.Spatial.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Dynamics-AX-Integration-master\Dynamics-AX-Integration-master\ServiceSamples\ODataUtility\obj\Debug\ODataUtility.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Dynamics-AX-Integration-master\Dynamics-AX-Integration-master\ServiceSamples\ODataUtility\obj\Debug\ODataUtility.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Dynamics-AX-Integration-master\Dynamics-AX-Integration-master\ServiceSamples\ODataUtility\obj\Debug\ODataUtility.csproj.CopyComplete
+C:\Users\Administrator\Documents\Visual Studio 2017\Dynamics-AX-Integration-master\Dynamics-AX-Integration-master\ServiceSamples\ODataUtility\obj\Debug\ODataUtility.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Dynamics-AX-Integration-master\Dynamics-AX-Integration-master\ServiceSamples\ODataUtility\obj\Debug\ODataUtility.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ODataUtility\bin\Debug\ODataUtility.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ODataUtility\bin\Debug\ODataUtility.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ODataUtility\obj\Debug\ODataUtility.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ODataUtility\obj\Debug\ODataUtility.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ODataUtility\obj\Debug\ODataUtility.csproj.CopyComplete
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ODataUtility\obj\Debug\ODataUtility.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ODataUtility\obj\Debug\ODataUtility.pdb
+C:\Users\91945\Desktop\WebServices\ODataUtility\bin\Debug\ODataUtility.dll
+C:\Users\91945\Desktop\WebServices\ODataUtility\bin\Debug\ODataUtility.pdb
+C:\Users\91945\Desktop\WebServices\ODataUtility\bin\Debug\Microsoft.OData.Client.dll
+C:\Users\91945\Desktop\WebServices\ODataUtility\bin\Debug\Microsoft.OData.Core.dll
+C:\Users\91945\Desktop\WebServices\ODataUtility\bin\Debug\Microsoft.OData.Edm.dll
+C:\Users\91945\Desktop\WebServices\ODataUtility\bin\Debug\Microsoft.Spatial.dll
+C:\Users\91945\Desktop\WebServices\ODataUtility\bin\Debug\Newtonsoft.Json.dll
+C:\Users\91945\Desktop\WebServices\ODataUtility\bin\Debug\Microsoft.OData.Client.xml
+C:\Users\91945\Desktop\WebServices\ODataUtility\bin\Debug\Microsoft.OData.Core.xml
+C:\Users\91945\Desktop\WebServices\ODataUtility\bin\Debug\Microsoft.OData.Edm.xml
+C:\Users\91945\Desktop\WebServices\ODataUtility\bin\Debug\Microsoft.Spatial.xml
+C:\Users\91945\Desktop\WebServices\ODataUtility\obj\Debug\ODataUtility.csprojResolveAssemblyReference.cache
+C:\Users\91945\Desktop\WebServices\ODataUtility\obj\Debug\ODataUtility.dll
+C:\Users\91945\Desktop\WebServices\ODataUtility\obj\Debug\ODataUtility.pdb
